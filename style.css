@@ -1,16 +1,16 @@
 body {
-    background-color: darkblue;
+    background-color: lightblue;
     font-family: Arial, sans-serif;
     text-align: center;
     padding: 30px;
 }
 
 h1 {
-    color: pink;
+    color: darkblue;
 }
 
 h2 {
-    color: lightgreen;
+    color: darkgreen;
 }
 
 p {
@@ -18,7 +18,7 @@ p {
 }
 
 button {
-    background-color: darkgreen;
+    background-color: darkblue;
     color: white;
     padding: 12px 20px;
     border: none;
